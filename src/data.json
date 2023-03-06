@@ -1,0 +1,708 @@
+{
+  "message": "",
+  "success": true,
+  "perPage": 6,
+  "maxCount": 20,
+  "data": [
+    {
+      "name": "Aston Martin",
+      "category": "car",
+      "price": 50000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd412bed",
+      "image": {
+        "src": "aston",
+        "alt": "Aston Martin"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "Aston Martin is a modern, exclusive sports car brand with a unique heritage instantly recognised around the world. Founded in 1913 by Lionel Martin and Robert Bamford, Aston Martin is acknowledged as an iconic global brand synonymous with style, luxury, performance and exclusivity.",
+        "recommendations": [
+          {
+            "src": "ferrari",
+            "alt": "Ferrari"
+          },
+          {
+            "src": "rolls",
+            "alt": "Rolls Royce"
+          },
+          {
+            "src": "chevrolet",
+            "alt": "Chevrolet"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bedroom",
+      "category": "home",
+      "price": 10,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbb34d4bed",
+      "image": {
+        "src": "bedroom",
+        "alt": "Bedroom"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 12000,
+        "description": "A cat is sometimes called a kitty. A young cat is called a kitten.[8] There are about 92 breeds of cat.[9] Domestic cats are found in shorthair, longhair, and hairless breeds. Cats which are not specific breeds can be referred to as 'domestic shorthair' (DSH) or 'domestic longhair' ",
+        "recommendations": [
+          {
+            "src": "cacadu",
+            "alt": "Cacadu"
+          },
+          {
+            "src": "parrot",
+            "alt": "Parrot"
+          },
+          {
+            "src": "tree",
+            "alt": "Tree"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cacadu",
+      "category": "animal",
+      "price": 5,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd456bed",
+      "image": {
+        "src": "cacadu",
+        "alt": "Cacadu"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "More than half the park is Aboriginal land, and all of Kakadu is special to its Traditional Owners. Kakadu’s Traditional Owners manage the park in partnership with Parks Australia, playing a key role in everything from Board decisions to hands-on management of weeds and feral animal.\n\n",
+        "recommendations": [
+          {
+            "src": "ferrari",
+            "alt": "Ferrari"
+          },
+          {
+            "src": "merc",
+            "alt": "Mercedes"
+          },
+          {
+            "src": "room",
+            "alt": "home"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cat",
+      "category": "animal",
+      "price": 100,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd478bed",
+      "image": {
+        "src": "cat",
+        "alt": "Cat"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 10000,
+        "description": "The cat (Felis catus) is a domestic species of small carnivorous mammal.[1][2] It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.[4] Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to kill rodents. About 60 cat breeds are recognized by various cat registries.[6",
+        "recommendations": [
+          {
+            "src": "dog",
+            "alt": "Dog"
+          },
+          {
+            "src": "mountain",
+            "alt": "Mountain"
+          },
+          {
+            "src": "parrot",
+            "alt": "Parrot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chevrolet",
+      "category": "car",
+      "price": 10000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4b91ed",
+      "image": {
+        "src": "chevrolet",
+        "alt": "Chevrolet"
+      },
+      "bestseller": false,
+      "featured": true,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "Chevrolet-branded vehicles are sold in most automotive markets worldwide. In Oceania, Chevrolet was represented by Holden Special Vehicles, having returned to the region in 2018 after a 50-year absence with the launching of the Camaro and Silverado pickup truck (HSV was partially and formerly owned by GM subsidiary Holden, which GM retired in 2021).",
+        "recommendations": [
+          {
+            "src": "merc",
+            "alt": "Mercedes"
+          },
+          {
+            "src": "parrot",
+            "alt": "Parrot"
+          },
+          {
+            "src": "room",
+            "alt": "Room"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dog Charles",
+      "category": "animal",
+      "price": 10,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd492bed",
+      "image": {
+        "src": "dog",
+        "alt": "Dog"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "Dogs (Canis lupus familiaris) are domesticated mammals, not natural wild animal. They were originally bred from wolves. They have been bred by humans for a long time and were the first animal ever to be domesticated. Remains dating to 30,000 years ago have been described as \"Paleolithic dogs\". Their status as dogs or wolves is unclear.[4] Considerable morphological diversity existed among wolves in the Late Pleistocene.[1] The dingo is also a dog, but many dingos have become wild animal again and live independently of humans in the range where they occur (parts of Australia).",
+        "recommendations": [
+          {
+            "src": "garvin-st-villier",
+            "alt": "Chevrolet"
+          },
+          {
+            "src": "george-lebada",
+            "alt": "animal"
+          },
+          {
+            "src": "gianluca-grisenti",
+            "alt": "nature"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ferrari",
+      "category": "car",
+      "price": 100000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4b93ed",
+      "image": {
+        "src": "ferrari",
+        "alt": "Ferrari"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 11200,
+        "description": "Ferrari S.p.A. (/fəˈrɑːri/; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari (1898–1988) in 1939 from the Alfa Romeo racing division as Auto Avio Costruzioni, the company built its first car in 1940, and produced its first Ferrari-badged car in 1947",
+        "recommendations": [
+          {
+            "src": "room1",
+            "alt": "Room"
+          },
+          {
+            "src": "tree",
+            "alt": "Tree"
+          },
+          {
+            "src": "giraffe",
+            "alt": "Giraffe"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Forest",
+      "category": "nature",
+      "price": 20000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4b21ed",
+      "image": {
+        "src": "forest",
+        "alt": "Forest"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 1500,
+        "description": "A forest is an area of land dominated by trees.[1] Hundreds of definitions of forest are used throughout the world, incorporating factors such as tree density, tree height, land use, legal standing, and ecological function",
+        "recommendations": [
+          {
+            "src": "cat",
+            "alt": "Cat"
+          },
+          {
+            "src": "dog",
+            "alt": "Dog"
+          },
+          {
+            "src": "room",
+            "alt": "Room"
+          }
+        ]
+      }
+    },
+    {
+      "name": "giraffe",
+      "category": "animal",
+      "price": 101000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be43d",
+      "image": {
+        "src": "giraffe",
+        "alt": "Giraffe"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "The giraffe is a large African hoofed mammal belonging to the genus Giraffa. It is the tallest living terrestrial animal and the largest ruminant on Earth. Traditionally, giraffes were thought to be one species, Giraffa camelopardalis, with nine subspecies. Most recently, researchers proposed dividing them into up to eight extant species due to new research into their mitochondrial and nuclear DNA, as well as morphological measurements. Seven other extinct species of Giraffa are known from the fossil record.",
+        "recommendations": [
+          {
+            "src": "ferrari",
+            "alt": "Ferrari"
+          },
+          {
+            "src": "parrot",
+            "alt": "Parrot"
+          },
+          {
+            "src": "rolls",
+            "alt": "Rolls-Royce"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grass",
+      "category": "nature",
+      "price": 10,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be65d",
+      "image": {
+        "src": "grass",
+        "alt": "Grass"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "This plant also has important ecological functions: it protects against soil erosion, it absorbs water, it purifies the air we breathe and so on. Every variety of grass has its own special properties. The grass family, or Graminae, has about 8,000 varieties.",
+        "recommendations": [
+          {
+            "src": "parrot",
+            "alt": "Parrot"
+          },
+          {
+            "src": "rolls",
+            "alt": "Rolls-Royce"
+          },
+          {
+            "src": "room",
+            "alt": "Room"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chameleon",
+      "category": "animal",
+      "price": 105,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbb87d4bed",
+      "image": {
+        "src": "lebada",
+        "alt": "Chameleon"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "A chameleon sits motionlessly on a tree branch. Suddenly its sticky, two-foot-long tongue snaps out at 13 miles an hour, wrapping around a cricket and whipping the yummy snack back into the reptile’s mouth. Now that’s fast food dining! And the chameleon’s swift eating style is just one of its many features that’ll leave you tongue-tied.\n\n",
+        "recommendations": [
+          {
+            "src": "tree",
+            "alt": "Tree"
+          },
+          {
+            "src": "vec",
+            "alt": "asda"
+          },
+          {
+            "src": "pixabay",
+            "alt": "room"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mercedes",
+      "category": "car",
+      "price": 200000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be19d",
+      "image": {
+        "src": "merc",
+        "alt": "Mercedes"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "Mercedes-Benz was founded in 1926 by Karl Benz, Gottlieb Daimler, Wilhelm Maybach and Emil Jellinek, whose daughter Mercedes is our original namesake. With offices in 93 locations worldwide and a corporate headquarters in Stuttgart, Germany, our global presence continues to grow.",
+        "recommendations": [
+          {
+            "src": "forest",
+            "alt": "Forest"
+          },
+          {
+            "src": "room",
+            "alt": "Room"
+          },
+          {
+            "src": "vec",
+            "alt": "House"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mountain",
+      "category": "nature",
+      "price": 160,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd294bed",
+      "image": {
+        "src": "mountain",
+        "alt": "Mountain"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "They usually have steep, sloping sides and sharp or rounded ridges, and a high point, called a peak or summit. Most geologists classify a mountain as a landform that rises at least 1,000 feet (300 meters) or more above its surrounding area.",
+        "recommendations": [
+          {
+            "src": "chevrolet",
+            "alt": "Chevrolet"
+          },
+          {
+            "src": "pixabay",
+            "alt": "room"
+          },
+          {
+            "src": "parrot",
+            "alt": "Parrot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Parrot",
+      "category": "animal",
+      "price": 30,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd439bed",
+      "image": {
+        "src": "parrot",
+        "alt": "Parrot"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 1500,
+        "description": "Characteristic features of parrots include a strong, curved bill, an upright stance, strong legs, and clawed zygodactyl feet. Many parrots are vividly coloured, and some are multi-coloured. Most parrots exhibit little or no sexual dimorphism in the visual spectrum. They form the most variably sized bird order in terms of length.",
+        "recommendations": [
+          {
+            "src": "forest",
+            "alt": "Forest"
+          },
+          {
+            "src": "vec",
+            "alt": "animal"
+          },
+          {
+            "src": "cat",
+            "alt": "animal"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Room",
+      "category": "home",
+      "price": 30000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfb49bd4bed",
+      "image": {
+        "src": "pixabay",
+        "alt": "Room"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "In a building or large vehicle, like a ship, a room is any enclosed space within a number of walls to which entry is possible only via a door or other dividing structure that connects it to either a passageway, another room, or the outdoors, that is large enough for several people to move about, and whose size, fixtures, furnishings, and sometimes placement within the building or ship support the activity to be conducted in it.",
+        "recommendations": [
+          {
+            "src": "forest",
+            "alt": "Forest"
+          },
+          {
+            "src": "chevrolet",
+            "alt": "Chevrolet"
+          },
+          {
+            "src": "ferrari",
+            "alt": "Ferrari"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rolls Royce",
+      "category": "car",
+      "price": 400000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbb59d4bed",
+      "image": {
+        "src": "rolls",
+        "alt": "Rolls Royce"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "Rolls-Royce grew from the electrical and mechanical business established by Henry Royce in 1884. Royce built his first motor car in 1904 and in May of that year met Charles Rolls, whose company sold quality cars in London.",
+        "recommendations": [
+          {
+            "src": "room",
+            "alt": "room"
+          },
+          {
+            "src": "chevrolet",
+            "alt": "Chevrolet"
+          },
+          {
+            "src": "dog",
+            "alt": "Dog"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Room",
+      "category": "home",
+      "price": 50,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfb69bd4bed",
+      "image": {
+        "src": "room",
+        "alt": "Room"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "",
+        "recommendations": [
+          {
+            "src": "chevrolet",
+            "alt": "Chevrolet"
+          },
+          {
+            "src": "room1",
+            "alt": "Room"
+          },
+          {
+            "src": "tree",
+            "alt": "nature"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Room",
+      "category": "home",
+      "price": 51000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8df75bbd4bed",
+      "image": {
+        "src": "room1",
+        "alt": "Room"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "",
+        "recommendations": [
+          {
+            "src": "parrot",
+            "alt": "Parrot"
+          },
+          {
+            "src": "ferrari",
+            "alt": "Ferrari"
+          },
+          {
+            "src": "cat",
+            "alt": "Cat"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tree",
+      "category": "nature",
+      "price": 170,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfb62bd4bed",
+      "image": {
+        "src": "tree",
+        "alt": "Tree"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "In botany, a tree is a perennial plant with an elongated stem, or trunk, usually supporting branches and leaves. In some usages, the definition of a tree may be narrower, including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees",
+        "recommendations": [
+          {
+            "src": "dog",
+            "alt": "Dog"
+          },
+          {
+            "src": "ferrari",
+            "alt": "Ferrari"
+          },
+          {
+            "src": "forest",
+            "alt": "Forest"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Room",
+      "category": "home",
+      "price": 81000,
+      "currency": "$",
+      "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbb84d4bed",
+      "image": {
+        "src": "vec",
+        "alt": "Room"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "",
+        "recommendations": [
+          {
+            "src": "tree",
+            "alt": "Tree"
+          },
+          {
+            "src": "room",
+            "alt": "Room"
+          },
+          {
+            "src": "merc",
+            "alt": "Mercedes"
+          }
+        ]
+      }
+    }
+  ]
+}
